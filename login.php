@@ -15,8 +15,8 @@
                 <input type="password" id="password" placeholder="Password">
                 <i class="fas fa-eye" id="eye-icon" onclick="togglePasswordVisibility()"></i>
             </div>
-            <a href="#" style="font-size: 12px;">Forgot Password?</a>
-            <button>Log In</button>
+            <a href="forgot-password.php" style="font-size: 12px;">Forgot Password?</a>
+            <a href="verification.php"><button>Log In</button></a>
             <a href="register.php" class="signup-link">New to ActiveGym? Sign up now</a>
         </div>
     </div>
