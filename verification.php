@@ -10,7 +10,7 @@
                 <h2>Verify it's you</h2>
                 <p>We sent a verification code to your email address. Please check your inbox and enter the code below.</p>
                 <input type="text" placeholder="Enter 6-Digits Code">
-                <button>Verify Code</button>
+                <a href="#" type="submit"><button>Verify Code</button>
                 <p>Didn't receive an email? <a href="#">Try Again</a></p>
             </div>
         </div>

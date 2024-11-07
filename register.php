@@ -32,7 +32,7 @@
                 <input type="password" placeholder="Confirm Password" id="confirm-password">
                 <i class="fas fa-eye toggle-password" onclick="togglePassword('confirm-password')"></i>
             </div>
-            <button>Sign Up</button>
+            <a href="#" type="submit"><button>Sign Up</button>
             <p class="login-link">Already have an account? <a href="login.php">Log In</a></p>
         </div>
         <div class="image-container">

@@ -10,7 +10,7 @@
                 <h2>Forgot Password</h2>
                 <p>We sent a verification code to 0948****30<br>Please check your inbox and enter the code below.</p>
                 <input type="text" placeholder="Enter 4-digits Code">
-                <button>Verify Code</button>
+                <a href="#" type="submit"><button>Verify Code</button>
                 <div class="resend">
                     Didn't receive a text? <a href="#">Try Again</a>
                 </div>
